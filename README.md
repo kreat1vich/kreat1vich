@@ -1,6 +1,7 @@
 ## Hi, I'm Andrii 👋
 
 🧑‍💻 Future Software engineer 
+☕️ GameDev enthusiast
 
 
 # 💻 Tech Stack:
