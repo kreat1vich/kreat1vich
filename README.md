@@ -1,7 +1,6 @@
 ## Hi, I'm Andrii 👋
 
-🧑‍💻 Future Software engineer 
-
+🧑‍💻 Future Software engineer
 ☕️ GameDev enthusiast
 
 
