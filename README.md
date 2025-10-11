@@ -1,7 +1,6 @@
 ## Hi, I'm Andrii 👋
 
 🧑‍💻 Future Software engineer 
-🇺🇦 Lviv, Ukraine
 
 
 # 💻 Tech Stack:
