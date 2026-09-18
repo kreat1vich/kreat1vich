@@ -55,9 +55,8 @@ More projects will appear here as I build them.
 ### Contact
 
 | | |
-| ----------- | ----------------------------------------------------------------- |
+|---|---|
 | 📧 Email | `pylypchuk.andrij@gmail.com` |
-<!-- | 💼 LinkedIn | `YOUR_LINKEDIN_HERE` | -->
 | 🐙 GitHub | [github.com/kreat1vich](https://github.com/kreat1vich) |
 
 ---
