@@ -36,9 +36,7 @@ I'm interested in building applications, learning software development fundament
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kreat1vich&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreat1vich&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kreat1vich&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=e3b341&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="600" />
 
 </div>
 
