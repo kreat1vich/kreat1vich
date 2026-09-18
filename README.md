@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Learning+C%23+%26+.NET+MAUI;Building+my+first+projects;Always+learning+something+new!)](https://git.io/typing-svg)
 
-<br>
-
-
 </div>
 
 ---
