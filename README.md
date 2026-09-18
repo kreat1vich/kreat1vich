@@ -2,11 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Andrii%20Pylypchuk&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Beginner%20C%23%20Developer%20%E2%80%A2%20Learning%20.NET%20MAUI&descSize=15&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Learning+C%23+%26+.NET+MAUI;Building+my+first+projects;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Learning+C%23+%26+.NET+MAUI;Building+my+first+projects;Always+learning+something+new!)](https://git.io/typing-svg)
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kreat1vich&style=flat-square&color=1f6feb)](https://github.com/kreat1vich)
 
 </div>
 
